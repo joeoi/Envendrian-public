@@ -1,0 +1,23 @@
+{
+    "name": "Fire Mage ARPG",
+    "short_name": "Fire Mage",
+    "description": "Fire Mage ARPG playable in fullscreen on mobile.",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "landscape",
+    "background_color": "#0e0e12",
+    "theme_color": "#0e0e12",
+    "icons": [
+        {
+            "src": "icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "games"
+    ],
+    "prefer_related_applications": false
+}
