@@ -1,0 +1,436 @@
+{
+    "tile_width": 12,
+    "tile_height": 12,
+    "gap": 1,
+    "margin": 1,
+    "0:3": {
+        "description": "BRICK_0",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "1:3": {
+        "description": "BRICK_2",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "2:3": {
+        "description": "BRICK_3",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "0:4": {
+        "description": "WOOD_0",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "1:4": {
+        "description": "WOOD_1",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "2:4": {
+        "description": "WOOD_2",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "0:7": {
+        "description": "SKELETON_0",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "1:7": {
+        "description": "SKELETON_1",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "2:7": {
+        "description": "SKELETON_2",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "0:8": {
+        "description": "TREE_0",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "1:8": {
+        "description": "TREE_1",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "2:8": {
+        "description": "TREE_2",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "3:8": {
+        "description": "TREE_3",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "2:10": {
+        "description": "MUSHROOM_1",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": true,
+        "spawn_outside": false,
+        "spawn_inside": true
+    },
+    "3:10": {
+        "description": "MUSHROOM_2",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": true,
+        "spawn_outside": false,
+        "spawn_inside": true
+    },
+    "5:13": {
+        "description": "ROCK_RUBBLE",
+        "is_wall": false,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": true,
+        "spawn_outside": false,
+        "spawn_inside": true
+    },
+    "4:10": {
+        "description": "DEAD_TREE",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": true,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "5:10": {
+        "description": "DEAD_TREE_1",
+        "is_wall": false,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": true,
+        "spawn_outside": false,
+        "spawn_inside": true
+    },
+    "2:14": {
+        "description": "Snake",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": true,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "6:14": {
+        "description": "Bird",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": true,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "12:14": {
+        "description": "Lion",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": true,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "13:14": {
+        "description": "Turtle",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": true,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "14:14": {
+        "description": "Bear",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": true,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "104:4": {
+        "description": "Goblin",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": true,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": true
+    },
+    "105:4": {
+        "description": "Hammer Goblin",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": true,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": true
+    },
+    "113:4": {
+        "description": "Shield Goblin",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": true,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": true
+    },
+    "104:6": {
+        "description": "Demon",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": true,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": true
+    },
+    "104:17": {
+        "description": "FIRE_MAGE",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": true,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": true
+    },
+    "104:42": {
+        "description": "small slime",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": true,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": true
+    },
+    "105:42": {
+        "description": "Medium Slime",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": true,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": true
+    },
+    "106:42": {
+        "description": "BIG SLIME",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": true,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": true
+    },
+    "84:39": {
+        "description": "FIRE_RAIN_DROPLET",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "84:21": {
+        "description": "FIRE_BALL",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "11:1": {
+        "description": "DUNGEON_ENTRANCE_1",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "17:1": {
+        "description": "DUNGEON_ENTRANCE_2",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "23:0": {
+        "description": "DUNGEON_ENTRANCE_3",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "0:1": {
+        "description": "DUNGEON_ENTRANCE_4",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "20:2": {
+        "description": "DUNGEON_ENTRANCE_5",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": false,
+        "spawn_inside": false
+    },
+    "9:9": {
+        "description": "SPROUT_0",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": true,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "10:9": {
+        "description": "SPROUT_1",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": true,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "11:9": {
+        "description": "SPROUT_2",
+        "is_wall": false,
+        "is_solid": false,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": true,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "33:0": {
+        "description": "FENCE_0",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": true,
+        "spawn_inside": false
+    },
+    "34:0": {
+        "description": "FENCE_1",
+        "is_wall": true,
+        "is_solid": true,
+        "is_npc": false,
+        "is_player": false,
+        "is_decoration": false,
+        "spawn_outside": true,
+        "spawn_inside": false
+    }
+}
